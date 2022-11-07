@@ -6,7 +6,7 @@ permalink: /research/JMP
 excerpt: 'This paper estimates the elasticity of e-commerce goods after the legislative imposition of sales taxes.'
 date: 2022-10-01
 venue: 'JMP'
-paperurl: 'http://academicpages.github.io/files/JMP Chicola.pdf'
+paperurl: 'http://academicpages.github.io/files/JMP_Chicola.pdf'
 ---
 
 How sensitive are e-commerce purchases to state sales taxes? Understanding
@@ -24,6 +24,6 @@ consumption partially back to brick and mortar retailers. For example, if
 California did not impose sales on online retailers, panelists expenditure
 shares would be 8.9% larger in this state.
 
-[Download paper here](http://academicpages.github.io/files/JMP Chicola.pdf)
+[Download paper here](http://academicpages.github.io/files/JMP_Chicola.pdf)
 
 
