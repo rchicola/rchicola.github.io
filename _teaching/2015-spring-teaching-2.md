@@ -1,14 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Lecturer"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/Benedictine
+venue: "Benedictine University"
+date: 2013-01-01
+location: "Lisle, IL"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+2017. Among the courses I taught were international business (x8), introductory microeconomics (x3), and various finance classes. 
+
+The finance classes I have taught include investments (x3), managerial finance (x2), money & financial markets (x3), fixed income (x2), personal financial planning (x1), and multinational corporate finance (x3). 
+
 
 Heading 1
 ======
