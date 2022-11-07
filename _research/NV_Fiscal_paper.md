@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 1"
+title: "Joint Prediction and Simulation of Labor Force and Fiscal
+Conditions of Nevada Counties"
 collection: research
 permalink: /research/FISCAL_PAPER
 excerpt: 'This paper jointly estimates labor and fiscal conditions using Nevada counties' budget data.'
