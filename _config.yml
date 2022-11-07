@@ -13,7 +13,7 @@ name                     : &name "Randall M. Chicola"
 description              : &description "Empirical Applied Economics, Public Economics, and Regional Economics"
 url                      : https://rchicola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rchicola.github.io"
+repository               : "rchicola/rchicola.github.io"
 teaser                   : "PXL_20220220_004343852 (2).jpg"   # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
