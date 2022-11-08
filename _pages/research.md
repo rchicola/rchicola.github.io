@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Testing Render
-
 Job Market Paper: "Implications of Sales Tax Enforcement on E-commerce: Evidence from Nielsen Consumer Panel Data" Chicola, Randall. (2022)
 
 My job market paper examines the sensitivity of e-commerce purchases to the imposition of state sales tax. This paper exploits timing variation in
