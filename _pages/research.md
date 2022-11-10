@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+Working Papers:
+
 1) Job Market Paper: "Implications of Sales Tax Enforcement on E-commerce: Evidence from Nielsen Consumer Panel Data" Chicola, Randall. (2022)
 
 My job market paper examines the sensitivity of e-commerce purchases to the imposition of state sales tax. This paper exploits timing variation in
@@ -28,4 +30,6 @@ relationships of county budgets.
 
 [Download paper here](https://github.com/rchicola/rchicola.github.io/blob/master/files/FISCAL_PAPER_10.28.2022.pdf)
 
+Works in Progress:
 
+This meta-analysis explores the evidence regarding the extent of nominal price rigidity. This parameter is indispensable to prevailing Dynamic Stochastic General Equilibrium (DSGE) models used to estimate outcomes of fiscal and monetary policy intervention. Typically, the greater the nominal price rigidity parameter, the more effective policy intervention tools are. Numerous studies have estimated this parameter, however estimates vary widely throughout the literature. The goal of this paper is to study the sources of this variation and will be the first meta-analysis in this area of literature. These estimates arise from intricate structural models for which a system of controls was created to detail the subtle feature differences between each model's structure. The analysis will use meta regressions to pin down the parameter which could easily be used in future research as DSGE model inputs. Additionally, we will provide best practices for fitted estimates of the nominal price rigidity parameter based on the existing literature. From these contributions macroeconomists meaningfully discuss how estimates using different methodological approaches and model structure influence estimates reported throughout the literature.
