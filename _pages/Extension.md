@@ -10,7 +10,7 @@ Much of my work done as a graduate research assistant involved working with the 
 
 1) Performed economic impact analysis of the COVID pandemic related CARES act funds and PPP loan programs on the Nevadan Economy using Implan software. 
 
-2)Published technical reports comparing Payment in Lieu of Taxes (P.I.L.T.) monies received by Western States found here: <a href="[https://en.wikipedia.org/wiki/Hobbit#Lifestyle](https://extension.unr.edu/publications.aspx)" title="Extension: PILT report ">hobbit-hole</a>
+2) Published technical reports comparing Payment in Lieu of Taxes (P.I.L.T.) monies received by Western States found here: <a href="[https://en.wikipedia.org/wiki/Hobbit#Lifestyle](https://extension.unr.edu/publications.aspx)" title="Extension: PILT report ">hobbit-hole</a>
 
 3) Developing an improved cow-calf Nevada ranching model to account for drought conditions as well as decreased forage from reduced BLM permitted Animal Units per Month (AUM) allotments.
 
