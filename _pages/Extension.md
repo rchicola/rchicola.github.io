@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Extension"
+title: "Graduate Research Assistant: UCED & Extension"
 permalink: /Extension/
 author_profile: true
 ---
