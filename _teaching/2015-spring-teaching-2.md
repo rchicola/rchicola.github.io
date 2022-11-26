@@ -12,4 +12,4 @@ I taught various undergraduate courses at Benedictine University in Lisle, IL fr
 
 The finance classes I have taught include investments (x3), managerial finance (x2), money & financial markets (x3), fixed income (x2), personal financial planning (x1), and multinational corporate finance (x3). 
 
-Wherever posssible, I incorporate software tools employed in industry. For example when teaching investments, including Bloomberg terminal exercises for students preparing for Bloomberg Market Concepts certifications. Similarly, using OANDA for currency portfolio concepts in multinational corporate finance.
+Wherever posssible, I incorporate software tools employed in industry. For example when teaching investments, I include Bloomberg terminal exercises for students preparing for Bloomberg Market Concepts certifications. Similarly, I use OANDA to teach currency portfolio concepts in multinational corporate finance.
