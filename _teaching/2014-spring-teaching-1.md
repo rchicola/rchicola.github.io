@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/TA
-venue: "Universtiy of Nevada, Reno"
+venue: "University of Nevada, Reno"
 date: 2018-01-08
 location: "City, Country"
 ---
