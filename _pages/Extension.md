@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Much of my work done as a graduate research assistant involved working with the University of Nevada Reno's Extension office and University Center for Economic Development (UCED). Here I worked with Professor Tom Harris) researching pertinent issues to the Nevadan Economy including:
+Much of my work done as a graduate research assistant involved working with the University of Nevada Reno's Extension office and University Center for Economic Development (UCED). Here I worked with Professor Tom Harris researching pertinent issues to the Nevadan Economy including:
 
 1) Performed economic impact analysis of the COVID pandemic related CARES act funds and PPP loan programs on the Nevadan Economy using Implan software.  
    
