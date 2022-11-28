@@ -6,7 +6,7 @@ permalink: /research/FISCAL_PAPER
 excerpt: 'This paper jointly estimates labor and fiscal conditions using Nevada counties' budget data.'
 date: 2022-10-28
 venue: 'Fiscal Conditions'
-paperurl: 'http://academicpages.github.io/files/FISCAL_PAPER 10.28.2022.pdf'
+paperurl: 'http://academicpages.github.io/files/FISCAL_PAPER 11.26.2022.pdf'
 
 ---
 This paper jointly estimates labor and fiscal conditions using Nevada counties' budget data.
