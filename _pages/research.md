@@ -28,7 +28,7 @@ in the two modules, a simulation analyzed to account for the effects of changes 
 employment to the labor and fiscal status of each Nevada county in addition to dynamic
 relationships of county budgets.
 
-[Download paper here](https://github.com/rchicola/rchicola.github.io/blob/master/files/FISCAL_PAPER_10.28.2022.pdf)
+[Download paper here](https://github.com/rchicola/rchicola.github.io/blob/master/files/FISCAL_PAPER 11.26.2022.pdf)
 
 Works in Progress:
 
