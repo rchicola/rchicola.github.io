@@ -13,7 +13,7 @@ Much of my work done as a graduate research assistant involved working with the 
    
 
 2) Published technical reports comparing Payment in Lieu of Taxes (P.I.L.T.) monies received by Western States found here:  
-[Extension: PILT report]([https://extension.unr.edu/publications.aspx](https://extension.unr.edu/publication.aspx?PubID=4569)). 
+[Extension: PILT report]([https://extension.unr.edu/publication.aspx?PubID=4569](https://extension.unr.edu/publication.aspx?PubID=4569)). 
 
 Also, full report here: 
 
