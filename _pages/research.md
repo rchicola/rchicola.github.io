@@ -41,6 +41,6 @@ This meta-analysis explores the evidence regarding the extent of nominal price r
 
 2) "How Do Rooftop Solar Panel Owners Vote in Energy Related Issues? An Event Study from Nevada"
 
-Chicola Randall (University of Nevada, Reno), Uz Dilek  (University of Nevada, Reno)
+Chicola Randall (University of Nevada, Reno), Uz, Dilek (University of Nevada, Reno)
 
 This paper examines the efficacy of net metering referendums on solar panel installation in Nevada. This paper contributes to a data need in the political science literature by providing the first precinct level income data inferred by machine learning from home price data. This will contribute an alternative control for income when precinct level income data is unavailable. Additionally, the analysis estimates the share who voted for net metering referendums that were proposed in 2016 and 2018. Such estimates can aide policymakers when analyzing regional renewable energy adoption.
