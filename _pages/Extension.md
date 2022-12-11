@@ -5,6 +5,7 @@ permalink: /Extension/
 author_profile: true
 ---
 
+(2019 to present)
 
 Much of my work done as a graduate research assistant involved working with the University of Nevada Reno's Extension office and University Center for Economic Development (UCED). Here I worked with Professor Tom Harris researching pertinent issues to the Nevadan Economy including:
 
