@@ -18,7 +18,7 @@ Some projects resulting from this work include:
 [Extension: PILT report](https://extension.unr.edu/publication.aspx?PubID=4569). The abridged technical report for public consumption is part of a greater body of analysis of PILT revenue streams for [GOED](https://goed.nv.gov/)
 
 
-Also, the pdf: [Download paper here](http://academicpages.github.io/files/PILT_2020_UNR_published.pdf)     
+Also, the pdf: [Download paper here](http://rchicola.github.io/files/PILT_2020_UNR_published.pdf)     
 
 3) Utilized an improved cow-calf Nevada ranching model to account for drought conditions as well as decreased forage permits alloted by the Bureau of Land Management (BLM).  A linear programming (LP) model using GAMS was employed to optimize net profits over a 50 year production horizon and determine the shadow values associated with combinations of descrete decreases in water and BLM land allotments.
 
