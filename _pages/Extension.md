@@ -15,7 +15,7 @@ Some projects resulting from this work include:
    
 
 2) Published technical reports comparing Payment in Lieu of Taxes (P.I.L.T.) monies received by Western States found here:  
-[Extension: PILT report](https://extension.unr.edu/publications.aspx). The abridged technical report for public consumption is part of a greater body of analysis of PILT revenue streams for [GOED](https://goed.nv.gov/)
+[Extension: PILT report](https://extension.unr.edu/publication.aspx?PubID=4569). The abridged technical report for public consumption is part of a greater body of analysis of PILT revenue streams for [GOED](https://goed.nv.gov/)
 
 
 Also, the pdf: [Download paper here](http://academicpages.github.io/files/PILT_2020_UNR_published.pdf)     
