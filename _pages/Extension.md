@@ -20,7 +20,7 @@ Some projects resulting from this work include:
 
 Also, the pdf: [Download paper here](http://rchicola.github.io/files/PILT_2020_UNR_published.pdf)     
 
-3) Utilized an improved cow-calf Nevada ranching model to account for drought conditions as well as decreased forage permits alloted by the Bureau of Land Management (BLM).  A linear programming (LP) model using GAMS was employed to optimize net profits over a 50 year production horizon and determine the shadow values associated with combinations of descrete decreases in water and BLM land allotments.
+3) Utilized an improved cow-calf Nevada ranching model to account for drought conditions as well as decreased forage permits alloted by the Bureau of Land Management (BLM).  A linear programming (LP) model using GAMS was employed to optimize net profits over a 50 year production horizon and determine the shadow values associated with combinations of discrete decreases in water and BLM land allotments.
 
 
 
