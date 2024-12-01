@@ -16,4 +16,4 @@ I am currently a graduate research assistant at UNR for Prof. Tom Harris. Much o
 
 # My CV is available here: [Download CV here](https://rchicola.github.io/files/RandallChicolaResume2024wChugach-Updated11-30-2024RCupdated.docx)
 
-# My published Dissertation is available here: [Download Dissertation here](https://rchicola.github.io/files/Chicola_RandallM.pdf)
+# My Published Dissertation is available here: [Download Dissertation here](https://rchicola.github.io/files/Chicola_RandallM.pdf)
