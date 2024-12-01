@@ -14,5 +14,5 @@ I am an applied economist at the University of Nevada in Reno (UNR). I currently
 I am currently a graduate research assistant at UNR for Prof. Tom Harris. Much of this work has been for UNR's Extension office, where research focuses on Nevada specific economic issues. I have also been a teaching assistant for large lecture hall classes for Prof. Todd Sorensen's introductory microeconomics course and smaller classes of about 60 students as in Prof. Kym Pram's intermediate microeconomics courses. Additionally I taught international business, introductory microeconomics, and several different finance courses at Benedictine University. I also have work experience as a financial controller for a retail brokerage that I hope to integrate into future classes.
 
 
-# My CV is available here: [Download CV here](files/RandallChicolaResume2024wChugach-Updated11-30-2024RCupdated.docx)
+# My CV is available here: [Download CV here](https://rchicola.github.io/files/RandallChicolaResume2024wChugach-Updated11-30-2024RCupdated.docx)
 
